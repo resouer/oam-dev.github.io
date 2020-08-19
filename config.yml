@@ -41,8 +41,8 @@ params:
     url: /#overview
   - title: Examples
     url: /#examples
-  - title: Implementations
-    url: /#implementations
+  - title: Ecosystem
+    url: /#ecosystem
   - title: Community
     url: /#community
   footer:
